@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Heading {
+  font-family: monospace;
+  text-align: center;
+  color: red;
+}
+
+.list {
+  padding: 1em;
+  text-align: left;
+}
+
+.list-item {
+  margin: 1em;
+  text-align: left;
+}
+
+/* API manipulation */
+.user {
+  border-radius: 1rem;
+  color: rgb(17, 19, 19);
+  background-color: rgb(150, 226, 226);
+  padding: 5rem;
+  text-align: left;
+}
+
+.post {
+  border-radius: 1rem;
+  color: rgb(17, 19, 19);
+  background-color: rgb(150, 226, 226);
+  padding: 5rem;
+  text-align: left;
+}
+
+.comment {
+  border-radius: 1rem;
+  color: rgb(17, 19, 19);
+  background-color: rgb(150, 226, 226);
+  padding: 5rem;
+  text-align: left;
+}
